@@ -42,15 +42,10 @@ Make sure you have the following installed:
 2.Install dependencies:
 
 npm install
-# or
-yarn install
-Running Locally
 
 Start the development server:
 
 npm run dev
-# or
-yarn dev
 
 
 Then open your browser and navigate to http://localhost:3000 (or the port Vite shows).
@@ -69,6 +64,7 @@ npm run preview
 yarn preview
 
 Project Structure (example)
+```
 TodoListContext/
 ├── public/
 │   └── index.html
@@ -85,7 +81,7 @@ TodoListContext/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+```
 
 src/context/TodoContext.jsx: Defines the Context provider and logic for managing todo state.
 
@@ -124,14 +120,3 @@ Push to the branch (git push origin feature/YourFeature)
 Open a pull request
 
 Please make sure your changes are well tested and documented.
-
-License
-
-This project is licensed under the MIT License — see the LICENSE
- file for details.
-
-
----
-
-If you like, I can generate a version with badges (build status, license, etc.) or translate it to Hindi (or any language). Do you want me to commit this into your repo or send a `.md` file version?
-::contentReference[oaicite:0]{index=0}
