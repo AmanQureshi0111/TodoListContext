@@ -86,7 +86,7 @@ App.jsx: Main UI shell.
 
 main.jsx: Entry point that renders <App /> inside Context provider.
 
-##Usage
+## Usage
 
 Once running, you can:
 
@@ -100,7 +100,7 @@ Delete tasks
 
 You can modify or extend it—for example, add categories, deadlines, or drag-and-drop reordering.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! You can:
 
