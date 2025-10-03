@@ -43,7 +43,7 @@ Make sure you have the following installed:
 
 npm install
 
-Start the development server:
+3.Start the development server:
 
 npm run dev
 
@@ -53,15 +53,10 @@ Then open your browser and navigate to http://localhost:3000 (or the port Vite s
 To build for production:
 
 npm run build
-# or
-yarn build
-
 
 To preview the production build:
 
 npm run preview
-# or
-yarn preview
 
 Project Structure (example)
 ```
